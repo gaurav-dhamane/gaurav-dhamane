@@ -13,8 +13,7 @@ Certifications-
 verify at- https://www.udemy.com/certificate/UC-a4e8c8af-176b-4571-9c28-e599e79ea4c6/
 
 
-
-
+![machine-learning](https://user-images.githubusercontent.com/75262183/197534954-4d24a33f-d79f-490b-95eb-1dfe51283f16.gif)
 
 <!--
 **gaurav9803/gaurav9803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
