@@ -6,7 +6,7 @@ Currently, I have intermediate knowledge of- Java, Python, ML algorithms, Numpy,
 
 Web Technologies Known and comfortable with- Django,HTML, CSS, Javascript,Bootstrap.
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=marshal2211&color=green)
 
 Certifications- 
 1. Python for Data Science & ML
