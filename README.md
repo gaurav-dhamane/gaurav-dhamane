@@ -15,14 +15,3 @@ verify at- https://www.udemy.com/certificate/UC-a4e8c8af-176b-4571-9c28-e599e79e
 
 ![machine-learning](https://user-images.githubusercontent.com/75262183/197534954-4d24a33f-d79f-490b-95eb-1dfe51283f16.gif)
 
-<!--
-**gaurav-dhamane/gaurav-dhamane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on __Problem Solving__
-- 🌱 I’m currently learning **Machine Learning**
-- 💬 Looking for Job
-- 📫 How to reach me: gauravdhamane22@gmail.com
-- ⚡ Fun fact: I think I have Imposter Syndrome, This makes me doubt my abilities and skills sometimes.
--->
